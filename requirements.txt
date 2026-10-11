@@ -1,7 +1,7 @@
 asyncio
 telethon
 aiogram
-Bot
+
 Dispatcher
 F
 Message
