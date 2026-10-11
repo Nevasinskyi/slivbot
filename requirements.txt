@@ -1,13 +1,2 @@
-asyncio
-telethon
-aiogram
-Dispatcher
-F
-Message
-aiogram.filters
-CommandStart
-CallbackQuery
-InlineKeyboardButton
-sqlite3
-InlineKeyboardMarkup
-aiogram.types
+aiogram==3.31.0
+telethon==1.45.0
